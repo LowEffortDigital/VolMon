@@ -1,7 +1,7 @@
 {
   "app": "volmon",
   "name": "VolMon",
-  "version": "v2.0.0",
+  "version": "v2.0.1",
   "tagline": "Native APFS Volume Analyzer, External Offload, Archive & Git Worktree Suite",
   "short_description": "Native macOS APFS drive analyzer with unified per-page Volume Switcher, symlink & clone deduplication, non-blocking Git & worktree manager, direct-streaming compressed backup & archive builder, external storage offload planner, cloud storage hydration guard, 3-column storage flow map, and Low Effort Suite v2.0 theme & Dock icon sync.",
   "spotlight_description": "VolMon 2.0 brings precision APFS & external drive telemetry to macOS as part of the Low Effort Suite v2.0. Switch active volumes across every action page so already-offloaded folders are protected from duplicate offload actions until you switch to the offload drive, inspect mounted volumes with symlink & APFS clone deduplication, manage Git repositories and linked worktrees non-blockingly, stream compressed .tar.gz/.zip archives directly to external drives while reclaiming local SSD space, guard against unwanted CloudStorage hydration (iCloud, OneDrive, Google Drive, Dropbox), and sync themes & persistent Dock icons across PerfMon, EventMon, VolMon, and WebMon.",
