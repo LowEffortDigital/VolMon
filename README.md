@@ -10,7 +10,7 @@
 
 <img src="Resources/branding/app_icon_512.png" alt="VolMon Logo" width="112" height="112" />
 
-# VolMon for macOS (v2.0.0)
+# VolMon for macOS (v2.0.1)
 
 **Native macOS Drive Space Telemetry, Large File & Folder Explorer, External Storage Offload Router, Structured Backup & Archive Builder & Smart Cleanup Suite**
 
@@ -83,7 +83,7 @@
 
 ### Direct Download (`.dmg`)
 Download the latest universal macOS disk image from GitHub Releases:
-- [**Download VolMon.dmg (v2.0.0)**](https://github.com/LowEffortDigital/VolMon/releases/latest/download/VolMon.dmg)
+- [**Download VolMon.dmg (v2.0.1)**](https://github.com/LowEffortDigital/VolMon/releases/latest/download/VolMon.dmg)
 
 ### Build from Source
 ```bash
